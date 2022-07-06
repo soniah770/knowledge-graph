@@ -1,0 +1,67 @@
+﻿,source,target,edge,id
+0,SQL Tutorial,button view result,Examples in Each Chapter,1
+1,SQL Tutorial,column customer table,SQL Exercises,2
+2,SQL Tutorial,explanation clarifying supplement explanation example,SQL Examples,3
+3,SQL Tutorial,,SQL Quiz Test,4
+4,SQL Tutorial,complete reference keywords function,SQL References,5
+5,SQL Tutorial,,SQL Data Types,6
+6,Introduction to SQL,,What is SQL?,7
+7,Introduction to SQL,set table procedure view,What Can SQL do?,8
+8,Introduction to SQL,sql  language,SQL is a Standard - BUT....,9
+9,Introduction to SQL,cs style page,Using SQL in Your Web Site,10
+10,Introduction to SQL,specific field table,RDBMS,11
+11,SQL Syntax,sql  server,Database Tables,12
+12,SQL Syntax,sql  statement,SQL Statements,13
+13,SQL Syntax,,Keep in Mind That,14
+14,SQL Syntax,sql serverin tutorial statement,Semicolon after SQL Statements?,15
+15,SQL Syntax,index,Some of The Most Important SQL Commands,16
+16,SQL SELECT Statement,stored result table,The SQL SELECT Statement,17
+17,SQL SELECT Statement,available  table,SELECT Syntax,18
+18,SQL SELECT Statement,sql column customer table,SELECT Column Example,19
+19,SQL SELECT Statement,sql column customer table,SELECT * Example,20
+20,SQL SELECT DISTINCT Statement,distinct duplicate value,The SQL SELECT DISTINCT Statement,21
+21,SQL SELECT DISTINCT Statement,duplicate column customer table,SELECT Example Without DISTINCT,22
+22,SQL SELECT DISTINCT Statement,distinct customer country,SELECT DISTINCT Examples,23
+23,SQL WHERE Clause,condition,The SQL WHERE Clause,24
+24,SQL WHERE Clause,sql mexico customer table,WHERE Clause Example,25
+25,SQL WHERE Clause,value database system,Text Fields vs. Numeric Fields,26
+26,SQL WHERE Clause,clause,Operators in The WHERE Clause,27
+27,"SQL AND, OR and NOT Operators",true display record condition,"The SQL AND, OR and NOT Operators",28
+28,"SQL AND, OR and NOT Operators",sql germany city berlin,AND Example,29
+29,"SQL AND, OR and NOT Operators",sql country germany spain,OR Example,30
+30,"SQL AND, OR and NOT Operators",sql customer country germany,NOT Example,31
+31,"SQL AND, OR and NOT Operators",sql country germany city,"Combining AND, OR and NOT",32
+32,SQL ORDER BY Keyword,descending use desc keyword,The SQL ORDER BY Keyword,33
+33,SQL ORDER BY Keyword,country column,ORDER BY Example,34
+34,SQL ORDER BY Keyword,country column,ORDER BY DESC Example,35
+35,SQL ORDER BY Keyword,column mean country order customername,ORDER BY Several Columns Example,36
+36,SQL ORDER BY Keyword,customername column,ORDER BY Several Columns Example 2,37
+37,SQL INSERT INTO Statement,new record table,The SQL INSERT INTO Statement,38
+38,SQL INSERT INTO Statement,specify name sql query,INSERT INTO Syntax,39
+39,SQL INSERT INTO Statement,sql  statement,Insert Data Only in Specified Columns,40
+40,SQL NULL Values,blank record creation,What is a NULL Value?,41
+41,SQL NULL Values,null null operator,How to Test for NULL Values?,42
+42,SQL NULL Values,empty value address field,The IS NULL Operator,43
+43,SQL NULL Values,null value address field,The IS NOT NULL Operator,44
+44,SQL UPDATE Statement,,The SQL UPDATE Statement,45
+45,SQL UPDATE Statement,new contact city,UPDATE Table,46
+46,SQL UPDATE Statement,sql record country mexico,UPDATE Multiple Records,47
+47,SQL DELETE Statement,existing record table,The SQL DELETE Statement,48
+48,SQL DELETE Statement,sql futterkiste customer table,SQL DELETE Example,49
+49,SQL DELETE Statement,possible structure attribute index,Delete All Records,50
+50,"SQL TOP, LIMIT, FETCH FIRST or ROWNUM Clause",limited number record oracle,The SQL SELECT TOP Clause,51
+51,"SQL TOP, LIMIT, FETCH FIRST or ROWNUM Clause",serverms access,"SQL TOP, LIMIT and FETCH FIRST Examples",52
+52,"SQL TOP, LIMIT, FETCH FIRST or ROWNUM Clause",serverms access,SQL TOP PERCENT Example,53
+53,"SQL TOP, LIMIT, FETCH FIRST or ROWNUM Clause",germany sql serverms access,ADD a WHERE CLAUSE,54
+54,SQL MIN() and MAX() Functions,selected column max column,The SQL MIN() and MAX() Functions,55
+55,"SQL COUNT(), AVG() and SUM() Functions",criterion,"The SQL COUNT(), AVG() and SUM() Functions",56
+56,"SQL COUNT(), AVG() and SUM() Functions",sql number product,COUNT() Example,57
+57,"SQL COUNT(), AVG() and SUM() Functions",average price product,AVG() Example,58
+58,"SQL COUNT(), AVG() and SUM() Functions",sql field orderdetails table,SUM() Example,59
+59,SQL LIKE Operator,also  combination,The SQL LIKE Operator,60
+60,SQL LIKE Operator,sql customer customername,SQL LIKE Examples,61
+61,SQL Wildcards,different operator wildcards,SQL Wildcard Characters,62
+62,SQL Wildcards,sql customer ber,Using the % Wildcard,63
+63,SQL Wildcards,sql customer character,Using the _ Wildcard,64
+64,SQL Wildcards,sql customer p,Using the [charlist] Wildcard,65
+65,SQL Wildcards,customer b,Using the [!charlist] Wildcard,66
